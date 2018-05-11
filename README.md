@@ -1,6 +1,7 @@
 Template of frontend application with Webpack
 =============================================
 
+Webpack 4.
 
 Used sources
 ------------
