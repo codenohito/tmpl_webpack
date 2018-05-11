@@ -1,0 +1,24 @@
+{
+  "name": "codenohito-tmpl-webpack",
+  "version": "1.0.0",
+  "description": "Template of frontend application with Webpack by Codenohito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenohito/tmpl_webpack.git"
+  },
+  "keywords": [
+    "template",
+    "webpack",
+    "boilerplate"
+  ],
+  "author": "Ivan Dymkov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codenohito/tmpl_webpack/issues"
+  },
+  "homepage": "https://github.com/codenohito/tmpl_webpack#readme"
+}
