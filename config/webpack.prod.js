@@ -4,11 +4,11 @@ const OptimizeCSSAssetsPlugin = require('optimize-css-assets-webpack-plugin');
 const common = require('./webpack.common.js');
 
 module.exports = merge(common, {
+  mode: "production",
   plugins: [
     new UglifyJSPlugin({
       sourceMap: true
     }),
     new OptimizeCSSAssetsPlugin({})
-  ],
-  mode: "production"
+  ]
 });
