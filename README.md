@@ -1,9 +1,8 @@
 Template of frontend application with Webpack
 =============================================
 
-**! PROJECT ON HOLD RIGHT NOW !**
-
-Webpack 4.
+__This project is obsolete.__
+Please check [codenohito/web-app-template](https://github.com/codenohito/web-app-template) instead.
 
 Used sources
 ------------
